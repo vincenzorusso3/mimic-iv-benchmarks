@@ -1,0 +1,6 @@
+https://physionet.org/content/mimiciv/1.0/
+
+convert tables name to uppercase e.g:
+ADMISSIONS.CSV
+CHARTEVENTS.CSV
+...
