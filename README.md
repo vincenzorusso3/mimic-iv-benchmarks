@@ -1,7 +1,7 @@
 MIMIC-IV Benchmarks
 =========================
 
-Python suite to construct benchmark machine learning datasets from the MIMIC-IV clinical database. The benchmark datasets cover two key inpatient clinical prediction tasks that map onto core machine learning problems: prediction of mortality from early admission data (classification), forecasting length of stay (regression).
+Python suite to construct benchmark machine learning datasets from the MIMIC-IV clinical database. The benchmark datasets cover two key inpatient clinical prediction tasks that map onto core machine learning problems: prediction of mortality from early admission data (classification), forecasting length of stay (regression). The code in this repository is adapted from Harutyunyan _et al._'s 2019 paper, "Multitask learning and benchmarking with clinical time series data" (paper: https://www.nature.com/articles/s41597-019-0103-9; code: https://github.com/YerevaNN/mimic3-benchmarks/tree/v1.0.0-alpha).
 
 
 
